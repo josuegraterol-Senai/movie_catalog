@@ -1,0 +1,102 @@
+[
+  {
+     "imdbID": "tt0075148",
+  "Title": "Rocky",
+  "Year": "1976",
+    "Poster": "https://cdn.europosters.eu/image/350/posters/rocky-balboa-filme-rocky-i167759.jpg",
+     "Plot": "Um boxeador desconhecido da Filadélfia tem uma chance inesperada de lutar pelo título mundial dos pesos pesados.",
+  "Director": "John G. Avildsen",
+  "Actors": "Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers",
+  "Type": "movie"
+  },
+ {
+  "imdbID": "tt0068646",
+  "Title": "O Poderoso Chefão",
+  "Year": "1972",
+  "Poster": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/90/93/20/20120876.jpg",
+  "Plot": "Em 1945, Don Vito Corleone, chefe da família mafiosa Corleone, é atacado por inimigos. Seu filho mais novo, Michael, relutantemente se envolve nos negócios da família, iniciando um ciclo de violência e vingança.",
+  "Director": "Francis Ford Coppola",
+  "Actors": "Marlon Brando, Al Pacino, James Caan, Diane Keaton, Richard Castellano, Sterling Hayden, John Marley, Richard Conte, Al Lettieri",
+  "Type": "movie"
+},
+  {
+  "imdbID": "tt0111161",
+  "Title": "Um Sonho de Liberdade",
+  "Year": "1994",
+  "Poster": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/90/16/48/20083748.jpg",
+  "Plot": "Em 1946, Andy Dufresne, um jovem e bem-sucedido banqueiro, tem sua vida radicalmente modificada ao ser condenado por um crime que não cometeu: o homicídio de sua esposa e do amante dela. Ele é mandado para a Penitenciária Estadual de Shawshank, no Maine, onde cumprirá pena perpétua. Lá, ele forma uma amizade com Ellis Boyd 'Red' Redding, um prisioneiro que cumpre pena há 20 anos e controla o mercado negro da instituição.",
+  "Director": "Frank Darabont",
+  "Actors": "Tim Robbins, Morgan Freeman, Bob Gunton",
+  "Type": "movie"
+},
+  {
+  "imdbID": "tt0468569",
+  "Title": "Batman: O Cavaleiro das Trevas",
+  "Year": "2008",
+  "Poster": "https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/90/57/96/20121842.jpg",
+  "Plot": "Batman, com a ajuda do Tenente Jim Gordon e do promotor público Harvey Dent, luta para desmantelar o crime organizado em Gotham City, mas enfrenta a ameaça do misterioso Coringa.",
+  "Director": "Christopher Nolan",
+  "Actors": "Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine",
+  "Type": "movie"
+},
+{
+  "imdbID": "tt0110357",
+  "Title": "O Rei Leão",
+  "Year": "1994",
+  "Poster": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/84/28/19962110.jpg",
+  "Plot": "Simba, um jovem leão, foge após a morte de seu pai e aprende lições sobre responsabilidade e coragem para reivindicar seu lugar como rei da Savana.",
+  "Director": "Roger Allers, Rob Minkoff",
+  "Actors": "Matthew Broderick, Jeremy Irons, James Earl Jones, Whoopi Goldberg",
+  "Type": "movie"
+},
+{
+ "imdbID": "tt4154756",
+  "Title": "Vingadores: Guerra Infinita",
+  "Year": "2018",
+  "Poster": "https://br.web.img3.acsta.net/c_310_420/pictures/18/03/16/15/08/2019826.jpg",
+  "Plot": "Os Vingadores e seus aliados devem estar reunidos para enfrentar o poderoso Thanos, que está determinado a coletar todas as Joias do Infinito e causar devastação no universo.",
+  "Director": "Anthony Russo, Joe Russo",
+  "Actors": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson",
+  "Type": "movie"
+},
+{
+  "imdbID": "tt0078346",
+  "Title": "Superman",
+  "Year": "1978",
+  "Poster": "https://br.web.img3.acsta.net/c_310_420/img/86/64/8664d1b110b95eb32313683f1a655f5f.jpg",
+  "Plot": "Clark Kent, um alienígena do planeta Krypton, cresce na Terra e usa seus superpoderes para proteger a humanidade como Superman.",
+  "Director": "Richard Donner",
+  "Actors": "Christopher Reeve, Margot Kidder, Gene Hackman, Marlon Brando",
+  "Type": "movie"
+},
+{
+  "imdbID": "tt0094226",
+  "Title": "Jogo Sujo",
+  "Year": "1987",
+  "Poster": "https://br.web.img2.acsta.net/c_310_420/img/83/72/8372846fc940d60f51bc31f20b6a577a.jpg",
+  "Plot": "Um agente do Tesouro forma uma equipe para derrubar o chefe do crime Al Capone em Chicago durante a Lei Seca.",
+  "Director": "Brian De Palma",
+  "Actors": "Kevin Costner, Sean Connery, Robert De Niro, Andy Garcia",
+  "Type": "movie"
+},
+{
+  "imdbID": "tt14205554",
+  "Title": "KPop Demon Hunters",
+  "Year": "2025",
+  "Poster": "https://sm.ign.com/t/ign_br/cover/k/k-pop-demo/k-pop-demon-hunters_1uu7.600.jpg",
+  "Plot": "Rumi, Mira e Zoey, estrelas do K-pop, lideram uma vida dupla como caçadoras de demônios, protegendo seus fãs de forças sobrenaturais. Quando uma boy band rival demoníaca surge, elas enfrentam seu maior desafio.",
+  "Director": "Maggie Kang, Chris Appelhans",
+  "Actors": "Arden Cho, Ahn Hyo-seop, May Hong, Ji-young Yoo, Yunjin Kim, Joel Kim Booster, Liza Koshy, Daniel Dae Kim, Ken Jeong, Lee Byung-hun",
+  "Type": "movie"
+},
+{
+  "imdbID": "tt1517268",
+  "Title": "Barbie",
+  "Year": "2023",
+  "Poster": "https://br.web.img2.acsta.net/c_310_420/pictures/23/06/21/21/10/1335465.jpg",
+  "Plot": "Barbie é expulsa de Barbieland por não ser perfeita o suficiente e embarca em uma aventura no mundo real que desafia suas ideias sobre si mesma e o que significa ser real.",
+  "Director": "Greta Gerwig",
+  "Actors": "Margot Robbie, Ryan Gosling, America Ferrera, Simu Liu",
+  "Type": "movie"
+}
+]
