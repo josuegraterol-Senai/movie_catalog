@@ -98,5 +98,121 @@
   "Director": "Greta Gerwig",
   "Actors": "Margot Robbie, Ryan Gosling, America Ferrera, Simu Liu",
   "Type": "movie"
+},
+{
+  "imdbID": "tt0120382",
+  "Title": "O Show de Truman",
+  "Year": "1998",
+  "Poster": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/93/64/37/20269376.jpg",
+  "Plot": "Um homem descobre que sua vida é um programa de televisão que vai ao ar internacionalmente.",
+  "Director": "Peter Weir",
+  "Actors": "Jim Carrey, Laura Linney, Noah Emmerich, Natascha McElhone, Ed Harris",
+  "Type": "movie"
+},
+{
+  "imdbID": "tt0910970",
+  "Title": "WALL·E",
+  "Year": "2008",
+  "Poster": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/91/31/05/20139182.jpg",
+  "Plot": "Em um futuro distante, um pequeno robô coletor de lixo embarca em uma jornada inesperada pelo espaço ao encontrar uma sonda chamada EVA, mudando o destino da humanidade.",
+  "Director": "Andrew Stanton",
+  "Actors": "Ben Burtt, Elissa Knight, Jeff Garlin, Fred Willard",
+  "Type": "movie"
+},
+{
+  "imdbID": "tt7527682",
+  "Title": "A Origem do Medo",
+  "OriginalTitle": "Out of Darkness",
+  "Year": "2024",
+  "Poster": "https://br.web.img3.acsta.net/c_310_420/img/8f/44/8f442752eab7e5ed32d6d5ab30afb29c.jpg",
+  "Plot": "Há cerca de 45 mil anos, um grupo desesperado de humanos primitivos encontra uma nova terra para se estabelecer. Quando começam a perceber que algo monstruoso os está perseguindo, eles enfrentam um perigo terrível que nunca poderiam ter imaginado.",  
+  "Director": "Andrew Cumming",
+  "Writer": "Ruth Greenberg",
+  "Actors": "Chuku Modu, Kit Young, Safia Oakley‑Green",
+  "Country": "Reino Unido",
+  "Duration": "1h 27min",
+  "Genre": "Terror, Suspense",
+  "Type": "movie"
+},
+{
+  "imdbID": "tt4574334",
+  "Title": "Stranger Things",
+  "Year": "2016",
+  "Poster": "https://br.web.img3.acsta.net/c_310_420/pictures/19/07/10/20/01/2331295.jpg",
+  "Plot": "Quando um garoto desaparece, sua mãe, um chefe de polícia e seus amigos enfrentam forças sobrenaturais para trazê-lo de volta, desvendando uma conspiração sombria ligada a experimentos secretos e uma dimensão alternativa chamada Mundo Invertido.",
+  "Director": "The Duffer Brothers",
+  "Actors": "Millie Bobby Brown, Finn Wolfhard, Winona Ryder, David Harbour",
+  "Type": "series"
+},
+{
+  "imdbID": "tt0133093",
+  "Title": "The Matrix",
+  "Year": "1999",
+  "Poster": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/91/08/82/20128877.JPG",
+  "Plot": "Um hacker chamado Neo descobre que a realidade que conhece é uma simulação controlada por máquinas e se une a um grupo de rebeldes para libertar a humanidade.",
+  "Director": "Lana Wachowski, Lilly Wachowski",
+  "Actors": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving",
+  "Type": "movie"
+},
+{
+  "imdbID": "tt0070047",
+  "Title": "O Exorcista",
+  "Year": "1973",
+  "Poster": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/26/84/19873738.jpg",
+  "Plot": "Uma jovem garota é possuída por uma entidade demoníaca, e dois padres tentam realizar um exorcismo para salvar sua vida.",
+  "Director": "William Friedkin",
+  "Actors": "Ellen Burstyn, Max von Sydow, Linda Blair, Jason Miller",
+  "Type": "movie"
+},
+{
+  "imdbID": "tt0338013",
+  "Title": "Brilho Eterno de uma Mente sem Lembranças",
+  "OriginalTitle": "Eternal Sunshine of the Spotless Mind",
+  "Year": "2004",
+  "Poster": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/90/08/91/20080540.jpg",
+  "Plot": "Após o término de um relacionamento, um casal decide apagar as memórias que têm um do outro, mas acabam descobrindo o valor das lembranças e do amor.",
+  "Director": "Michel Gondry",
+  "Actors": "Jim Carrey, Kate Winslet, Elijah Wood, Kirsten Dunst",
+  "Type": "movie"
+},
+{
+  "imdbID": "tt0109830",
+  "Title": "Forrest Gump",
+  "Year": "1994",
+  "Poster": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/30/21/19874092.jpg",
+  "Plot": "A história de Forrest Gump, um homem simples com um coração enorme, que testemunha e influencia vários eventos históricos nos EUA, enquanto busca o amor de sua vida.",
+  "Director": "Robert Zemeckis",
+  "Actors": "Tom Hanks, Robin Wright, Gary Sinise, Sally Field",
+  "Type": "movie"
+},
+{
+  "imdbID": "tt7466200",
+  "Title": "My Little Pony: Equestria Girls 3 – Jogos da Amizade",
+  "Year": "2017",
+  "Poster": "https://br.web.img3.acsta.net/c_310_420/pictures/23/01/30/18/14/2916632.png",
+  "Plot": "As Equestria Girls participam dos Jogos da Amizade em Canterlot High, competindo contra seus amigos enquanto aprendem lições importantes sobre trabalho em equipe e amizade.",
+  "Director": "Ishmael Buran II",
+  "Actors": "Tara Strong, Rebecca Shoichet, Andrea Libman, Tabitha St. Germain",
+  "Type": "movie"
+},
+{
+  "imdbID": "tt0293429",
+  "Title": "Mortal Kombat",
+  "Year": "2021",
+  "Poster": "https://br.web.img2.acsta.net/c_310_420/pictures/21/03/31/18/22/5366148.png",
+  "Plot": "Um lutador de MMA descobre seus poderes ocultos enquanto é levado para um torneio mortal onde guerreiros de diferentes reinos lutam pela sobrevivência da Terra.",
+  "Director": "Simon McQuoid",
+  "Actors": "Lewis Tan, Jessica McNamee, Josh Lawson, Joe Taslim",
+  "Type": "movie"
+},
+{
+  "imdbID": "tt0108255",
+  "Title": "Super Mario Bros.",
+  "Year": "2024",
+  "Poster": "https://br.web.img3.acsta.net/c_310_420/pictures/23/04/03/19/45/2854005.jpg",
+  "Plot": "Dois encanadores de Brooklyn entram em uma dimensão paralela para resgatar um jovem que foi sequestrado por um tirano reptiliano.",
+  "Director": "Rocky Morton, Annabel Jankel",
+  "Actors": "Bob Hoskins, John Leguizamo, Dennis Hopper, Samantha Mathis",
+  "Type": "movie"
 }
 ]
